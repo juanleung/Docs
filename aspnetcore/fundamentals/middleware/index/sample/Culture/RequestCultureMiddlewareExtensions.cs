@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Culture;
 
-namespace Culture
+namespace Microsoft.AspNetCore.Builder
 {
     public static class RequestCultureMiddlewareExtensions
     {
